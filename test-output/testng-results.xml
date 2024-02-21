@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-18T07:03:42Z" name="Suite" finished-at="2024-02-18T07:04:04Z" duration-ms="22197">
+  <suite started-at="2024-02-21T05:11:51Z" name="Suite" finished-at="2024-02-21T05:12:12Z" duration-ms="20393">
     <groups>
     </groups>
-    <test started-at="2024-02-18T07:03:42Z" name="Test" finished-at="2024-02-18T07:04:04Z" duration-ms="22197">
+    <test started-at="2024-02-21T05:11:51Z" name="Test" finished-at="2024-02-21T05:12:12Z" duration-ms="20393">
       <class name="suite.SeleniumFramework.LoginTest3">
-        <test-method is-config="true" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:suite.SeleniumFramework.LoginTest3@7a67e3c6]" started-at="2024-02-18T07:03:42Z" name="beforeClass" finished-at="2024-02-18T07:03:50Z" duration-ms="7737" status="PASS">
+        <test-method is-config="true" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:suite.SeleniumFramework.LoginTest3@7a67e3c6]" started-at="2024-02-21T05:11:52Z" name="beforeClass" finished-at="2024-02-21T05:12:00Z" duration-ms="7951" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,23 +23,23 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method signature="TC_Login_01()[pri:0, instance:suite.SeleniumFramework.LoginTest3@7a67e3c6]" started-at="2024-02-18T07:03:50Z" name="TC_Login_01" finished-at="2024-02-18T07:03:51Z" duration-ms="745" status="PASS">
+        <test-method signature="TC_Login_01()[pri:0, instance:suite.SeleniumFramework.LoginTest3@7a67e3c6]" started-at="2024-02-21T05:12:00Z" name="TC_Login_01" finished-at="2024-02-21T05:12:00Z" duration-ms="206" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_Login_01 -->
-        <test-method signature="TC_Login_02()[pri:0, instance:suite.SeleniumFramework.LoginTest3@7a67e3c6]" started-at="2024-02-18T07:03:51Z" name="TC_Login_02" finished-at="2024-02-18T07:03:51Z" duration-ms="240" status="PASS">
+        <test-method signature="TC_Login_02()[pri:0, instance:suite.SeleniumFramework.LoginTest3@7a67e3c6]" started-at="2024-02-21T05:12:00Z" name="TC_Login_02" finished-at="2024-02-21T05:12:00Z" duration-ms="160" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_Login_02 -->
-        <test-method signature="TC_Login_03()[pri:0, instance:suite.SeleniumFramework.LoginTest3@7a67e3c6]" started-at="2024-02-18T07:03:51Z" name="TC_Login_03" finished-at="2024-02-18T07:03:55Z" duration-ms="4183" status="PASS">
+        <test-method signature="TC_Login_03()[pri:0, instance:suite.SeleniumFramework.LoginTest3@7a67e3c6]" started-at="2024-02-21T05:12:00Z" name="TC_Login_03" finished-at="2024-02-21T05:12:04Z" duration-ms="3982" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_Login_03 -->
-        <test-method signature="TC_Login_04()[pri:0, instance:suite.SeleniumFramework.LoginTest3@7a67e3c6]" started-at="2024-02-18T07:03:55Z" name="TC_Login_04" finished-at="2024-02-18T07:04:00Z" duration-ms="4423" status="PASS">
+        <test-method signature="TC_Login_04()[pri:0, instance:suite.SeleniumFramework.LoginTest3@7a67e3c6]" started-at="2024-02-21T05:12:04Z" name="TC_Login_04" finished-at="2024-02-21T05:12:07Z" duration-ms="3296" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_Login_04 -->
-        <test-method signature="TC_Login_05()[pri:0, instance:suite.SeleniumFramework.LoginTest3@7a67e3c6]" started-at="2024-02-18T07:04:00Z" name="TC_Login_05" finished-at="2024-02-18T07:04:04Z" duration-ms="4430" status="PASS">
+        <test-method signature="TC_Login_05()[pri:0, instance:suite.SeleniumFramework.LoginTest3@7a67e3c6]" started-at="2024-02-21T05:12:07Z" name="TC_Login_05" finished-at="2024-02-21T05:12:12Z" duration-ms="4395" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_Login_05 -->

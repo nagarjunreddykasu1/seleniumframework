@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-21T05:26:37Z" name="Suite" finished-at="2024-02-21T05:26:58Z" duration-ms="21374">
+    <groups>
+    </groups>
+    <test started-at="2024-02-21T05:26:37Z" name="Test" finished-at="2024-02-21T05:26:58Z" duration-ms="21374">
+      <class name="suite.SeleniumFramework.LoginTest2">
+        <test-method is-config="true" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:suite.SeleniumFramework.LoginTest2@6d026701]" started-at="2024-02-21T05:26:37Z" name="beforeClass" finished-at="2024-02-21T05:26:43Z" duration-ms="5935" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://opensource-demo.orangehrmlive.com/web/index.php/auth/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="TC_Login_01()[pri:0, instance:suite.SeleniumFramework.LoginTest2@6d026701]" started-at="2024-02-21T05:26:43Z" name="TC_Login_01" finished-at="2024-02-21T05:26:43Z" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Login_01 -->
+        <test-method signature="TC_Login_02()[pri:0, instance:suite.SeleniumFramework.LoginTest2@6d026701]" started-at="2024-02-21T05:26:43Z" name="TC_Login_02" finished-at="2024-02-21T05:26:46Z" duration-ms="3192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Login_02 -->
+        <test-method signature="TC_Login_03()[pri:0, instance:suite.SeleniumFramework.LoginTest2@6d026701]" started-at="2024-02-21T05:26:46Z" name="TC_Login_03" finished-at="2024-02-21T05:26:49Z" duration-ms="3345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Login_03 -->
+        <test-method signature="TC_Login_04()[pri:0, instance:suite.SeleniumFramework.LoginTest2@6d026701]" started-at="2024-02-21T05:26:49Z" name="TC_Login_04" finished-at="2024-02-21T05:26:54Z" duration-ms="4281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Login_04 -->
+        <test-method signature="TC_Login_05()[pri:0, instance:suite.SeleniumFramework.LoginTest2@6d026701]" started-at="2024-02-21T05:26:54Z" name="TC_Login_05" finished-at="2024-02-21T05:26:58Z" duration-ms="4267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Login_05 -->
+      </class> <!-- suite.SeleniumFramework.LoginTest2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

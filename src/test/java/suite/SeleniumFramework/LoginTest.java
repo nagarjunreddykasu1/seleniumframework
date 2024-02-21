@@ -126,11 +126,11 @@ public class LoginTest {
 			
 			String username=testdata.get("UserName");
 			String password=testdata.get("Password");
-
+			Reusable.delay(2);
 			Reusable.sendKeys(loginPage.prop.getProperty("username"),username);
 			Reusable.sendKeys(loginPage.prop.getProperty("password"),password);
 			Reusable.click(loginPage.prop.getProperty("btnLogin"));
-			//Reusable.delay(3);
+			Reusable.delay(3);
 			String expectedMsg=testdata.get("TestData1");
 			Assert.assertEquals(Reusable.getText(loginPage.prop.getProperty("errorUserPassword")),expectedMsg);
 			Reusable.setResultInExcel(loginPage.xlLogin, sheet_TestCases, testcaseID, "PASS");

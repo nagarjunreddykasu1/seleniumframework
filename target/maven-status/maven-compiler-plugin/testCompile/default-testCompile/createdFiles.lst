@@ -1,0 +1,15 @@
+suite\SeleniumFramework\LoginTest.class
+base\ExcelReader.class
+pages\LoginPage.class
+suite\SeleniumFramework\LoginTest3.class
+base\AddUser.class
+database\SQLServerDB.class
+database\OracleDBConnection.class
+base\Log.class
+base\Setup.class
+pages\LoginPage3.class
+base\Listener.class
+pages\LoginPage2.class
+database\OracleQueries.class
+base\Reusable.class
+suite\SeleniumFramework\LoginTest2.class
